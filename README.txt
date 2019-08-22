@@ -1,4 +1,4 @@
-Scripts for "The role of structural pleiotropy and regulatory evolution in the retention of heteromers of paralogs" by Axelle Marchant, Angel F. Cisneros, Alexandre K Dubé, Isabelle Gagnon-Arsenault, Diana Ascencio, Honey A. Jain, Simon Aubé, Chris Eberlein, Daniel Evans-Yamamoto, Nozomu Yachie & Christian R Landry
+Scripts for "The role of structural pleiotropy and regulatory evolution in the retention of heteromers of paralogs" by Axelle Marchant, Angel F Cisneros, Alexandre K Dubé, Isabelle Gagnon-Arsenault, Diana Ascencio, Honey A. Jain, Simon Aubé, Chris Eberlein, Daniel Evans-Yamamoto, Nozomu Yachie & Christian R Landry. https://doi.org/10.7554/eLife.46754.
 
 
 #########################################
